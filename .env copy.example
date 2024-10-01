@@ -1,4 +1,4 @@
-NASA_API_KEY=""
+NASA_API_KEY="D1lNlkDEV3m0Y9t08uH9n30BWE6Xt4uuxI1fo5BO"
 NASA_APOD_URL="https://api.nasa.gov/planetary/apod?api_key="
 
 ADVICE_URL="https://api.adviceslip.com/advice"
